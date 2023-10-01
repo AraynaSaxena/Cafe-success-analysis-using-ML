@@ -1,1 +1,7 @@
 # Cafe-success-analysis-using-ML
+Abstract:
+I worked as an Intern at a cafe called “Cafe Coffee Day” which was suffering losses after COVID. Ever since I was a kid, I had been visiting the same cafe with my dad and felt deeply connected to it. I was hurt to see their losses and the smiles of the employees diminish, as they witnessed more tables going empty. Customer feedback is incredibly important for a business, especially a cafe. This project includes a Review and Sentiment Analysis model employing Machine Learning concepts, which analyzes customer reviews obtained through surveys, and online food delivery platforms, to present scopes for improvement at the cafe, ultimately increasing sales and customer satisfaction. It also empowers the cafe staff with valuable and precise decision making resources for targeted improvement and decrease in negative reviews.
+
+Introduction:
+Customer reviews provide a significant insight into the shortcomings of a cafe, especially any business in the hospitality industry. Reviews play a pivotal role in determining the success of a cafe. Hence, using their potential in a data- driven analysis provides support to a cafe for success.
+Built out of my passion for Coffee and a sentimental connection nurtured since my childhood with “Cafe Coffee Day,” the model was built by me as an avid customer of the cafe to provide a direction for targeted improvement.
